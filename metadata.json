@@ -1,0 +1,6 @@
+{
+  "name": "Atas Restaurant Melaka",
+  "description": "Where culinary excellence meets warm hospitality. Savor handcrafted Asian and Western delights along the Malacca River.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
